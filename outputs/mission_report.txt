@@ -1,0 +1,14 @@
+MISSION REPORT: Operation EVE
+========================================
+mission_name: Operation EVE
+ending: eve_located
+eve_located: True
+evidence_found: {}
+inferred_eve_location: [1, 4]
+confidence: 0.9944
+actions_taken: 14
+visited_cells: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [1, 4], [1, 5]]
+scanned_cells: [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [1, 5]]
+remaining_battery: 21
+remaining_time: 56
+recommended_next_step: Send a confirmation or recovery team to EVE.

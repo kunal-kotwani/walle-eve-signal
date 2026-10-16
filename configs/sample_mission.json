@@ -1,0 +1,33 @@
+{
+  "mission_name": "Operation EVE",
+  "map": {
+    "width": 7,
+    "height": 7,
+    "obstacle_count": 5,
+    "seed": 21
+  },
+  "initial_position": [0, 0],
+  "initial_signal": {
+    "direction": "unknown",
+    "strength": 22.0,
+    "timestamp": "mission-start"
+  },
+  "resources": {
+    "battery": 42,
+    "max_battery": 42,
+    "time_budget": 70,
+    "move_cost": 1,
+    "scan_cost": 2,
+    "recharge_cost": 1,
+    "return_cost": 1
+  },
+  "clues": {
+    "count": 7,
+    "seed": 90
+  },
+  "agent": {
+    "scan_radius": 0,
+    "confidence_threshold": 0.72,
+    "max_steps": 100
+  }
+}
